@@ -9,6 +9,6 @@ public class GitGithupDersTekrari {
     public static void main(String[] args) {
         System.out.println("Githup i da ogrendim");
     // Not:Git log --Commitlerimdeki versiyonlarimdaki durumu gosterir
-
+//Githup ogrenmek cok zevkli
     }
 }
