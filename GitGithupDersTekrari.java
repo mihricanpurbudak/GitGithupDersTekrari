@@ -13,7 +13,7 @@ public class GitGithupDersTekrari {
         //Githup pull da bvasariyla yapildi
         //Git pull dan sonra eklenen satir da basariyla push yapildi
         //Isler zor
-
+   //Ama gittikce kolaylasiyor
 
     }
 }
