@@ -10,5 +10,7 @@ public class GitGithupDersTekrari {
         System.out.println("Githup i da ogrendim");
     // Not:Git log --Commitlerimdeki versiyonlarimdaki durumu gosterir
 //Githup ogrenmek cok zevkli
+        //Githup pull da bvasariyla yapildi
+
     }
 }
